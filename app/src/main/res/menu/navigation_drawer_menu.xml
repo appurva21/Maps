@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.appurva.maps.MainActivity">
+    <item
+        android:id="@+id/nearbyRes1"
+        android:icon="@drawable/restaurant"
+        android:title="Nearby Restaurants" />
+    <item
+        android:id="@+id/nearbyHos1"
+        android:title="Nearby Hospitals"
+        android:icon="@drawable/stethoscope"/>
+    <item
+        android:id="@+id/nearbyAtm1"
+        android:title="Nearby ATMs"
+        android:icon="@drawable/bankcards"/>
+</menu>
